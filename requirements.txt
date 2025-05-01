@@ -1,0 +1,5 @@
+streamlit
+Pypdf
+langchain-groq
+langchain_community
+sentence_transformers
